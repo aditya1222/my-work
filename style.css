@@ -1,0 +1,24 @@
+body{
+text-align: center;
+    
+}
+#apps{
+    background-color: cornflowerblue;
+    
+}
+#games{
+    background-color:orange;
+    
+}
+#art{
+    background-color:lightsalmon;
+    
+}
+#chatbot{
+    background-color:indianred;
+    
+}
+img{
+    width : 300;
+    height : 300;
+}
